@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">miss pets</string>
+    <string name="email">Email</string>
+    <string name="name">Full name</string>
+    <string name="petname">Pet name</string>
+    <string name="petdate">12/12/2012</string>
+    <string name="petype">Cat/Dog</string>
+    <string name="petphone">+573222222</string>
+    <string name="petdir">calle 4#4-44 - Malambo</string>
+    <string name="petdescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a porta odio, quis interdum lectus. In eget lectus blandit, lacinia turpis vitae, varius mauris. Sed at tincidunt dui.</string>
+
+
+</resources>

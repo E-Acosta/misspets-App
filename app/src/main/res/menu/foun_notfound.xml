@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/found"
+        android:icon="@drawable/found"
+        app:cnb_iconColor="#FFFFFF"
+        android:title="Found" />
+    <item
+        android:id="@+id/notfound"
+        android:icon="@drawable/notfound"
+        app:cnb_iconColor="#FFFFFF"
+        android:title="Not Found" />
+</menu>
